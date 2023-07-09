@@ -1,0 +1,8 @@
+[Computer Science](index.md)
+- [Data Representation](Data%20Representation/index.md)
+	- [0. Strings](Data%20Representation/0.%20Strings.md)
+	- [1. Data Representation](Data%20Representation/1.%20Data%20Representation.md)
+	- [2. Natural Numbers](Data%20Representation/2.%20Natural%20Numbers.md)
+	- [3. Integers](Data%20Representation/3.%20Integers.md)
+	- [4. Tuples](Data%20Representation/4.%20Tuples.md)
+	- [5. Real Numbers](Data%20Representation/5.%20Real%20Numbers.md)
